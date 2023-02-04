@@ -17,38 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # DemoVideo
 
-
-
-
-  2:34
-Now playing
-
-  
-    
-    
-    
-  
-
-
-
-
-  
-
-
-
-  
-    Watch later
-  
-
-  
-  Watch later
-
-
-
-
-    Add to queue
-  
-
-  
-  Add to queue  
-
+https://youtu.be/clyEa_zUPlk
